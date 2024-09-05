@@ -3,7 +3,7 @@
 
 
 ### 1.Description: 
-I will predict stock prices using different models LSTM , GRU ,Transformers and test it on different stocks AMZN , Tesla 
+I will predict stock prices using LSTM Model and test it on different stocks AMZN , Tesla , Apple
 
 
 ### 2 Model explanation:
