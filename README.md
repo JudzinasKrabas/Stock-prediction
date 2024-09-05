@@ -94,33 +94,3 @@ Preprocessing:
 
 
 
-4.Model Definition: Explain the architecture of the model, including layers like LSTM, Attention, etc.
-Forward Pass: Describe how data moves through the model, from input to output.
-Training Process
-
-5.Loss Function: Mention the loss function used (e.g., MSELoss for regression tasks).
-Optimizer: Describe the optimization algorithm (e.g., Adam) and learning rate.
-Training Loop: Explain the training loop, including how many epochs the model runs and what metrics are tracked.
-Evaluation
-
-6.Performance Metrics: Describe how you evaluate the model’s performance (e.g., RMSE, MAE).
-Validation: Explain how you use validation data to monitor performance during training.
-Results
-
-7.Plotting: Describe any plots or visualizations created, such as predicted vs actual stock prices.
-Interpretation: Provide insights into what the results mean and how well the model performed.
-Conclusion
-
-8.Summary: Summarize the project's findings.
-Future Work: Suggest possible improvements or extensions of the project.
-Usage
-
-How to Run:I Provide instructions for running the code.
-Examples: I Include example commands or scripts to execute the project.
-Contributing
-
-Guidelines: Provide instructions for contributing to the project.
-License
-
-License Information: Include the type of license the project is under (e.g., MIT License).
-
