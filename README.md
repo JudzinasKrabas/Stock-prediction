@@ -24,17 +24,6 @@ I will predict stock prices using LSTM Model and test it on different stocks AMZ
 
 ![image](https://github.com/user-attachments/assets/86d65e85-49be-4d22-8fbb-2851c9dff334)
 
-## Transformers 
-
-
-<br>Transformers are a type of neural network that has revolutionized the way computers understand and generate sequences of data, like text, speech, or even images. They are particularly well-known for their use in natural language processing tasks, such as translating languages, summarizing articles, or answering questions.
-
-<br>Unlike LSTM or GRU, which process data step-by-step (like reading a book one word at a time), Transformers can look at the entire sequence all at once. This ability helps them understand the context and relationships between different parts of the data more effectively.
-
-<br>In simple terms, think of a Transformer as a powerful tool that can quickly scan and understand an entire paragraph or even a whole book at once, rather than reading it line by line. This makes it much faster and better at capturing the big picture, especially when dealing with large amounts of data.
-
-
-![image](https://github.com/user-attachments/assets/226b7b1e-0be9-4002-b8ff-3c8e8b5e91d2)
 
 
 
